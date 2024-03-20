@@ -11,9 +11,7 @@
 - 2004-2008 Southwest University
 
 ## Research Interests
-
 - Natural Language Processing
-- Adversarial Machine Learning
 
 ## Skills
 - Natural Language: Chinese (Native); English (CET-6)
