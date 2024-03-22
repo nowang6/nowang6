@@ -1,4 +1,4 @@
-# Norman Wang
+# N Wang
 
 ## Working Experience
 - 2018-*Present* Huawei 2012 Lab
