@@ -7,10 +7,10 @@
 
 
 ## Education
-- 2024-*Present* University of Colorado Boulder
 - 2004-2008 Southwest University
 
 ## Research Interests
+- LLM
 - Natural Language Processing
 
 ## Skills
