@@ -15,4 +15,4 @@
 
 ## Skills
 - Natural Language: Chinese (Native); English (CET-6)
-- Programming Language: **Python**; Java
+- Programming Language: Python; TypeScript; Java
