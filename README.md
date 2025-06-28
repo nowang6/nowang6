@@ -1,7 +1,8 @@
 # N Wang
 
 ## Working Experience
-- 2018-*Present* Huawei 2012 Lab
+- 2025-*Present* TD Tech
+- 2018-2024 Huawei
 - 2013-2018 Oracle
 - 2008-2013 HP
 
@@ -15,4 +16,4 @@
 
 ## Skills
 - Natural Language: Chinese (Native); English (CET-6)
-- Programming Language: Python; TypeScript; Java
+- Programming Language: Python; TypeScript; Triton
